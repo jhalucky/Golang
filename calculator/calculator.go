@@ -31,12 +31,5 @@ func main() {
 }
 
     fmt.Println("The result is: ", result)
-
-
-	
-	// fmt.Println("Sum of a and b is:", a+b)
-	// fmt.Println(a-b)
-	// fmt.Println(a*b)
-	// fmt.Println(a/b)
 	
 }
